@@ -1,8 +1,8 @@
 public class PuntoTest {
-    private static final int SUPERIOR_IZQUIERDO = 1;
-    private static final int SUPERIOR_DERECHO = 2;
-    private static final int INFERIOR_IZQUIERDO = 3;
-    private static final int INFERIOR_DERECHO = 4;
+    public static final int SUPERIOR_IZQUIERDO = 1;
+    public static final int SUPERIOR_DERECHO = 2;
+    public static final int INFERIOR_IZQUIERDO = 3;
+    public static final int INFERIOR_DERECHO = 4;
 
     public static void main(String[] args) {
         Punto p1 = new Punto(5,10);
